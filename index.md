@@ -5,6 +5,7 @@
     <title>Hello</title>
 </head>
 <body>
+<img scr="002.jpg"/>
 <h1>标题</h1>
 <p>121243</p>
 <p>uoiuiou</p>
